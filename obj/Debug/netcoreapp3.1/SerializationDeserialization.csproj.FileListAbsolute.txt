@@ -1,0 +1,16 @@
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\bin\Debug\netcoreapp3.1\SerializationDeserialization.exe
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\bin\Debug\netcoreapp3.1\SerializationDeserialization.deps.json
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\bin\Debug\netcoreapp3.1\SerializationDeserialization.runtimeconfig.json
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\bin\Debug\netcoreapp3.1\SerializationDeserialization.runtimeconfig.dev.json
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\bin\Debug\netcoreapp3.1\SerializationDeserialization.dll
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\bin\Debug\netcoreapp3.1\SerializationDeserialization.pdb
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.csproj.AssemblyReference.cache
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.AssemblyInfoInputs.cache
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.AssemblyInfo.cs
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.csproj.CopyComplete
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.dll
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.pdb
+C:\Users\670264172\Desktop\LocalGIT\SerializationDeserialization\obj\Debug\netcoreapp3.1\SerializationDeserialization.genruntimeconfig.cache
